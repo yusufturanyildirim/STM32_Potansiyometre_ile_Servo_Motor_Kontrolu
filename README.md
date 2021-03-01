@@ -1,0 +1,2 @@
+# STM32_Potansiyometre_ile_Servo_Motor_Kontrolu
+STM32F407VG kartı vasıtasıyla potansiyometre ile servo motor kontrolü 
